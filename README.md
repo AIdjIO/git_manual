@@ -22,7 +22,7 @@ else </br>
 
 # Branches
 ## Create a branch
-create a branch from the master when working on developing different features as to not affect other people/team who would then get your changes when they try to pull and may break their code. only merge your changes back to branch when <br/>
+create a branch from the master when working on developing different features as to not affect other people/team who would then get your changes when they try to pull and may break their code.<br/>
 `git branch feature_a` create a branch called feature_a <br/>
 `git checkout feature_a` make feature_a the active branch <br/>
 the 2 previous commands can be merged into one single operation <br/>
