@@ -29,5 +29,5 @@ the 2 previous commands can be merged into one single operation <br/>
 `git checkout -b feature_a`
 
 ## Merge a branch back to master
-`git merge feature_a` if there are any conflicts, git will ask about what to do with the changes
-
+First make sure to switch to the branch where you want "feature" branch to be merged to.
+`git merge feature_a` if there are any conflicts, git will ask about what to do with the changes.
