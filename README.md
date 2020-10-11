@@ -1,4 +1,4 @@
-# Few essential git command
+# Few essential git commands
 
 ## Intialise a local/remote repository
 Option 1|Option 2
