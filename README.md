@@ -1,2 +1,4 @@
 # git_manual
-few essential git command
+Few essential git command
+
+`git init
